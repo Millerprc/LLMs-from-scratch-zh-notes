@@ -1,0 +1,19 @@
+# macOS 系统垃圾
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 不要传英文原版
+LLMs-from-scratch/
+
+# 不要传空的翻译工作目录
+translation-work/
+
+# 用户自己打的备份包,不是源文件
+LLMs-from-scratch-zh/repo.tar.gz
+
+# 通用安全网
+*.log
+*.swp
+*~
+.DS_Store
